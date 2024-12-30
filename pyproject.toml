@@ -4,7 +4,7 @@
 name = "WWAA-CustomNodes" # Unique identifier for your node. Immutable after creation.
 description = "Custom Nodes for ComfyUI made by the team at WeirdWonderfulAI.Art These are developed based on the needs where there was a gap to make our workflows better. You are welcome to use it as you see fit."
 version = "1.0.0" # Custom Node version. Must be semantically versioned.
-license = "LICENSE.txt"
+license = {file = "LICENSE"}
 dependencies  = [] # Filled in from requirements.txt
 
 [project.urls]
